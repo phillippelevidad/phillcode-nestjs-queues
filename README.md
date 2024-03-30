@@ -1,16 +1,8 @@
-Se você é desenvolvedor back-end e precisa resolver problemas de escalabilidade, precisa lidar com alta complexidade de lógica de negócios, e gerenciar conflitos de acesso a dados em sistemas de alta demanda, esse vídeo é pra você.
-
-⭐ Vou te apresentar hoje o CQRS, que é um padrão de design de software que separa as partes de escrita e leitura dos dados na aplicação, permitindo otimizações independentes e melhor escalabilidade.
-
-### ✅ O QUE VOCÊ VAI APRENDER
-
-- O que é CQRS
-- Commands e Queries, que podem ser otimizados separadamente
-- Usando NestJS e TypeORM
+Como suavizar picos de processamento e processar webhooks e outras requisições usando FILAS, com o Bull e NestJS. Inclui política de retentativas para deixar sua aplicação mais resiliente.
 
 ### ✅ VÍDEO
 
-https://youtu.be/KmzabOeDVz8
+https://youtu.be/lEI_rwfVn4M
 
 ### ✅ SIGA-ME NAS REDES
 
